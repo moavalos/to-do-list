@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## FIREBASE
 Ambientado con la aplicacion de desarrollo de Google, Firebase.
+`https://console.firebase.google.com/project/to-do-list-app-de529/overview`
 
 ## Development server
 
